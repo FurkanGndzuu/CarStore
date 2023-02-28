@@ -1,0 +1,12 @@
+C:\Users\furka\OneDrive\Masaüstü\RentACar\RentACarAPI.Domain\bin\Debug\net6.0\RentACarAPI.Domain.deps.json
+C:\Users\furka\OneDrive\Masaüstü\RentACar\RentACarAPI.Domain\bin\Debug\net6.0\RentACarAPI.Domain.dll
+C:\Users\furka\OneDrive\Masaüstü\RentACar\RentACarAPI.Domain\bin\Debug\net6.0\RentACarAPI.Domain.pdb
+C:\Users\furka\OneDrive\Masaüstü\RentACar\RentACarAPI.Domain\obj\Debug\net6.0\RentACarAPI.Domain.csproj.AssemblyReference.cache
+C:\Users\furka\OneDrive\Masaüstü\RentACar\RentACarAPI.Domain\obj\Debug\net6.0\RentACarAPI.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\furka\OneDrive\Masaüstü\RentACar\RentACarAPI.Domain\obj\Debug\net6.0\RentACarAPI.Domain.AssemblyInfoInputs.cache
+C:\Users\furka\OneDrive\Masaüstü\RentACar\RentACarAPI.Domain\obj\Debug\net6.0\RentACarAPI.Domain.AssemblyInfo.cs
+C:\Users\furka\OneDrive\Masaüstü\RentACar\RentACarAPI.Domain\obj\Debug\net6.0\RentACarAPI.Domain.csproj.CoreCompileInputs.cache
+C:\Users\furka\OneDrive\Masaüstü\RentACar\RentACarAPI.Domain\obj\Debug\net6.0\RentACarAPI.Domain.dll
+C:\Users\furka\OneDrive\Masaüstü\RentACar\RentACarAPI.Domain\obj\Debug\net6.0\refint\RentACarAPI.Domain.dll
+C:\Users\furka\OneDrive\Masaüstü\RentACar\RentACarAPI.Domain\obj\Debug\net6.0\RentACarAPI.Domain.pdb
+C:\Users\furka\OneDrive\Masaüstü\RentACar\RentACarAPI.Domain\obj\Debug\net6.0\ref\RentACarAPI.Domain.dll

@@ -1,0 +1,17 @@
+C:\Users\furka\OneDrive\Masaüstü\RentACar\RentACarAPI.Infrastructure\bin\Debug\net6.0\RentACarAPI.Infrastructure.deps.json
+C:\Users\furka\OneDrive\Masaüstü\RentACar\RentACarAPI.Infrastructure\bin\Debug\net6.0\RentACarAPI.Infrastructure.dll
+C:\Users\furka\OneDrive\Masaüstü\RentACar\RentACarAPI.Infrastructure\bin\Debug\net6.0\RentACarAPI.Infrastructure.pdb
+C:\Users\furka\OneDrive\Masaüstü\RentACar\RentACarAPI.Infrastructure\bin\Debug\net6.0\RentACarAPI.Application.dll
+C:\Users\furka\OneDrive\Masaüstü\RentACar\RentACarAPI.Infrastructure\bin\Debug\net6.0\RentACarAPI.Domain.dll
+C:\Users\furka\OneDrive\Masaüstü\RentACar\RentACarAPI.Infrastructure\bin\Debug\net6.0\RentACarAPI.Application.pdb
+C:\Users\furka\OneDrive\Masaüstü\RentACar\RentACarAPI.Infrastructure\bin\Debug\net6.0\RentACarAPI.Domain.pdb
+C:\Users\furka\OneDrive\Masaüstü\RentACar\RentACarAPI.Infrastructure\obj\Debug\net6.0\RentACarAPI.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\furka\OneDrive\Masaüstü\RentACar\RentACarAPI.Infrastructure\obj\Debug\net6.0\RentACarAPI.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\furka\OneDrive\Masaüstü\RentACar\RentACarAPI.Infrastructure\obj\Debug\net6.0\RentACarAPI.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\furka\OneDrive\Masaüstü\RentACar\RentACarAPI.Infrastructure\obj\Debug\net6.0\RentACarAPI.Infrastructure.AssemblyInfo.cs
+C:\Users\furka\OneDrive\Masaüstü\RentACar\RentACarAPI.Infrastructure\obj\Debug\net6.0\RentACarAPI.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\furka\OneDrive\Masaüstü\RentACar\RentACarAPI.Infrastructure\obj\Debug\net6.0\RentACarAPI.Infrastructure.csproj.CopyComplete
+C:\Users\furka\OneDrive\Masaüstü\RentACar\RentACarAPI.Infrastructure\obj\Debug\net6.0\RentACarAPI.Infrastructure.dll
+C:\Users\furka\OneDrive\Masaüstü\RentACar\RentACarAPI.Infrastructure\obj\Debug\net6.0\refint\RentACarAPI.Infrastructure.dll
+C:\Users\furka\OneDrive\Masaüstü\RentACar\RentACarAPI.Infrastructure\obj\Debug\net6.0\RentACarAPI.Infrastructure.pdb
+C:\Users\furka\OneDrive\Masaüstü\RentACar\RentACarAPI.Infrastructure\obj\Debug\net6.0\ref\RentACarAPI.Infrastructure.dll
